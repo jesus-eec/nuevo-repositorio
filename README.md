@@ -1,2 +1,2 @@
-# nuevo-repositorio
+# Repostorio para practicar GitHub
 Nuevo repositorio
