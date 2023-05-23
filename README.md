@@ -1,2 +1,2 @@
-# Repostorio para practicar GitHub
+# Repostorio para practicar GitHub (Agregar THOR)
 Nuevo repositorio
